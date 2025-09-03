@@ -30,7 +30,7 @@
 		"outerColor": [155,155,0],
 		"innerColor": [155,0,0],
 		"uniquename": ["Empire of the Great"],
-		"uniques": [ "[+25]% Strength <when defending>", "[+15]% Strength <when attacking>", "[+25]% Strength <when fighting in [Friendly Land] tiles>", "[+15]% [Production] [in all cities]" ],
+		"uniques": [ "[+25]% Strength <when defending>", "[+20]% Strength <when attacking>", "[+25]% Strength <when fighting in [Friendly Land] tiles>", "[+15]% [Production] [in all cities]" ],
 		"cities": ["Hatlagom", "Karsag", "Darapant", "Uhgo", "Birim", "Kawamed", "Gatlpa"],
 	}
 ]
