@@ -20,7 +20,7 @@
 		"uniqueTo": "Hatlan Empire",
 		"isNationalWonder": true,
 		"cost": 90,
-		"uniques": ["Provides [2] [Iron]"],
+		"uniques": ["Provides [2] [Iron]", "[+25]% [Production]"],
 		"requiredTech": "Iron Working"
 	}
 	{
